@@ -10,16 +10,23 @@
     margin-right: 50px;
     justify-content: space-between;
     padding:10px;
+    border: none;
+   background-color:  rgb(192, 190, 190);
+   height: 20%;
 }
 .lowerbutton {
     margin-right: 80px;
     justify-content: space-between;
-    padding:10px;
+    padding:30px;
+    border:none;
+    background-color: rgb(192, 190, 190);
+    height:3%;
 }
 .footerbelow {
     height: 40px;
     background-color: rgb(239, 239, 10);
     display:flex;
+    
 }
 .text {
     font-Size: 1;
